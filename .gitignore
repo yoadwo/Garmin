@@ -1,0 +1,24 @@
+# Connect IQ signing credentials
+**/developer_key
+**/*.pem
+**/*.p12
+**/*.pfx
+**/*.jks
+**/*.keystore
+
+# Local machine configuration
+**/.env
+**/.env.*
+!**/.env.example
+**/*.local.env
+**/connectiq.local.env
+
+# Generated Connect IQ build outputs
+**/bin/
+**/*.prg
+**/*.prg.debug.xml
+**/*.iq
+
+# Operating system files
+.DS_Store
+Thumbs.db

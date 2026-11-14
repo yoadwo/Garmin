@@ -1,0 +1,4 @@
+<resources>
+    <font id="SuuntoDigits" filename="suunto2small.fnt" />
+    <font id="SuuntoDigitsLarge" filename="suunto2large.fnt" />
+</resources>
